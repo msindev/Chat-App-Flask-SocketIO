@@ -2,3 +2,4 @@ Flask
 Flask_SocketIO
 Flask-Session
 gunicorn
+eventlet
