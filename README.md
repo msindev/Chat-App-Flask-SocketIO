@@ -1,6 +1,7 @@
 # RealTime Chat App - Flask, SocketIO
 
 This is a simple chat application which uses Python, Flask and Socket IO. 
+[Youtube Tutorial Series](https://www.youtube.com/playlist?list=PLzEWSvaHx_Z392JyUztLMgL80MYMQoKlR)
 
 ![](https://github.com/mohitwildbeast/Chat-App-Flask-SocketIO/raw/main/screenshots/Realtime%20Chat%20App.png)
 ### Installation
