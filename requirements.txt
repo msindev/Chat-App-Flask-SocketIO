@@ -1,4 +1,2 @@
-Flask
-Flask_SocketIO
-Flask-Session
-eventlet
+Flask_SocketIO==4.3.1
+Flask==1.1.2
